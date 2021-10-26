@@ -10,7 +10,7 @@
 #include "DHT.h"
 
 #define FIREBASE_HOST "healthcare-1d270.firebaseio.com" //Do not include https:// in FIREBASE_HOST
-#define FIREBASE_AUTH "OdPsBCNsWMiNTnpWRGbE7e6XS6VZrc1BIzSVYxyT"
+#define FIREBASE_AUTH "**********************"
 #define WIFI_SSID "tedata"
 #define WIFI_PASSWORD "0em04133"
 String generalPath="/Garbeg";
